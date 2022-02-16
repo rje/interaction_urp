@@ -1238,6 +1238,10 @@ PrefabInstance:
       propertyPath: _optionalCameraRigRef
       value: 
       objectReference: {fileID: 446302299}
+    - target: {fileID: 275677271399707497, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f67cf1a3bbdea994fb815fa49674bcaa, type: 2}
     - target: {fileID: 341548596873441220, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: m_Materials.Array.size
       value: 3
@@ -1262,10 +1266,18 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 789678457551964918, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a1e0ab4f5b13a7e4abedac3e11c77a63, type: 2}
     - target: {fileID: 1273399157627721389, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1311321829988073228, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55aabddc702de2a49a6e7e82641bc09c, type: 2}
     - target: {fileID: 1416309981222207771, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: _iActiveStateMono
       value: 
@@ -1274,6 +1286,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1633367906002580395, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: f67cf1a3bbdea994fb815fa49674bcaa, type: 2}
     - target: {fileID: 1649869645161045650, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: _interactorDrivers.Array.size
       value: 2
@@ -1290,6 +1306,14 @@ PrefabInstance:
       propertyPath: _iActiveStateMono
       value: 
       objectReference: {fileID: 7675340}
+    - target: {fileID: 2702444595373053324, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a1e0ab4f5b13a7e4abedac3e11c77a63, type: 2}
+    - target: {fileID: 3020467563520220401, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55aabddc702de2a49a6e7e82641bc09c, type: 2}
     - target: {fileID: 3036878529827638651, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1326,6 +1350,10 @@ PrefabInstance:
       propertyPath: _iInteractorDriverMonos.Array.data[1]
       value: 
       objectReference: {fileID: 23893240}
+    - target: {fileID: 4994293643128910106, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f67cf1a3bbdea994fb815fa49674bcaa, type: 2}
     - target: {fileID: 5459108364598309217, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: _interactorDrivers.Array.size
       value: 2
@@ -1334,6 +1362,10 @@ PrefabInstance:
       propertyPath: _interactorDrivers.Array.data[1]
       value: 
       objectReference: {fileID: 1308494059}
+    - target: {fileID: 5506121962251143301, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a1e0ab4f5b13a7e4abedac3e11c77a63, type: 2}
     - target: {fileID: 5550776016039436608, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1382,6 +1414,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: OculusInteractionSampleRig
       objectReference: {fileID: 0}
+    - target: {fileID: 5780035783961588184, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: f67cf1a3bbdea994fb815fa49674bcaa, type: 2}
     - target: {fileID: 5849901658858205016, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: _iActiveStateMono
       value: 
@@ -1402,6 +1438,10 @@ PrefabInstance:
       propertyPath: _iInteractorDriverMonos.Array.data[1]
       value: 
       objectReference: {fileID: 8030197382851624737}
+    - target: {fileID: 6102074986489085311, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55aabddc702de2a49a6e7e82641bc09c, type: 2}
     - target: {fileID: 6305737498139461415, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1414,6 +1454,10 @@ PrefabInstance:
       propertyPath: _interactorDrivers.Array.data[1]
       value: 
       objectReference: {fileID: 23893240}
+    - target: {fileID: 7141916903638800383, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a1e0ab4f5b13a7e4abedac3e11c77a63, type: 2}
     - target: {fileID: 7192818547689909906, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: m_CullingMask.m_Bits
       value: 23
@@ -1442,6 +1486,10 @@ PrefabInstance:
       propertyPath: _iInteractorDriverMonos.Array.data[1]
       value: 
       objectReference: {fileID: 2927907441975267913}
+    - target: {fileID: 8031879260617268866, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 55aabddc702de2a49a6e7e82641bc09c, type: 2}
     - target: {fileID: 8063704534594007443, guid: f39a9d103c4129b42a53567f6cd8356a, type: 3}
       propertyPath: _interactorDrivers.Array.size
       value: 2
